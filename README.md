@@ -63,5 +63,7 @@ Contributors
 Sources
 ============
 Reused my own code from: https://github.com/PhamilyExpress/CMPUT404-assignment-ajax
+
 Twitter emotes: https://betterttv.com/emotes/top
+
 In class websocket example: https://github.com/abramhindle/WebSocketsExamples/blob/master/chat.py
